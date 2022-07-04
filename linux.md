@@ -1,4 +1,5 @@
 ## NETWORK
 
 ### IP addres v4 for all interfaces 
-`ip addr | grep "inet "`
+v4 : `ip addr | grep "inet "`
+v6 : `ip addr | grep "inet6 "`
