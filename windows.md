@@ -1,2 +1,2 @@
-reboot 
+## reboot 
 `shutdown /r /f /t 0 `
