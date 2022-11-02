@@ -10,8 +10,8 @@
 ### MAC
 * Show mac addresses on network interfaces  `mac /v`
 
-### 
-* Control turn off windows firewall `netsh advfirewall set allprofiles state off`
+### Control
+* turn off windows firewall `netsh advfirewall set allprofiles state off`
 
 ## processes
 
