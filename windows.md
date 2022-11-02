@@ -1,17 +1,17 @@
-## reboot 
-`shutdown /r /f /t 0 `
+## POWER MANAGEMENT
+* reboot force `shutdown /r /f /t 0 `
 
 
 ## NETWORK
 
 ### IP 
-`ipconfig /all | findstr IPv4 `  - all ip addresses 
+* show all IPv4 addresses `ipconfig /all | findstr IPv4 `  
 
 ### MAC
-`mac /v`
+* Show mac addresses on network interfaces  `mac /v`
 
-### turn off windows firewall
-`netsh advfirewall set allprofiles state off`
+### 
+* Control turn off windows firewall `netsh advfirewall set allprofiles state off`
 
 ## processes
 
