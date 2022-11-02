@@ -5,6 +5,7 @@
 * v6 : `ip addr | grep "inet6 "`
 
 
+## RANDOM PROBLEMS 
 ### vnc
 
 * Fix problem with capslock on client but not on host (switch off caplock on linux)
