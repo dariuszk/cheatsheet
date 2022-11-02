@@ -10,6 +10,9 @@
 ### MAC
 `mac /v`
 
+### turn off windows firewall
+`netsh advfirewall set allprofiles state off`
+
 ## processes
 
 ### Kill 
