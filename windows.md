@@ -14,6 +14,6 @@
 
 ### Kill 
 
-* by name `taskkill /f /im "editor.exe` 
-* by pid  `first tasklist | findstr proces_name`  `taskkill /f /pid 1234`
+* by name `taskkill /f /im "editor.exe`, can be used `*` eg. `taskkill /f /im "*staff*.exe`
+* by pid  first `tasklist | findstr proces_name` then  `taskkill /f /pid 1234`
 
