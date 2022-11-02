@@ -6,3 +6,6 @@
 
 ### IP 
 `ipconfig /all | findstr IPv4 `  - all ip addresses 
+
+### MAC
+`mac /v`
